@@ -1,0 +1,26 @@
+{
+  "name": "ubedh-khan",
+  "version": "1.0.0",
+  "description": "Ubedh Khan - Creator, Digital Marketer and Music Producer portfolio website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "portfolio",
+    "creative",
+    "music",
+    "digital-marketing"
+  ],
+  "author": "Ubedh Khan",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
